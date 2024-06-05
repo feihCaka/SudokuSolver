@@ -2,12 +2,12 @@ import tkinter as tk
 from src.gui.sudoku_gui import GUI
 
 '''
-Sudoku Solver Pro
+Sudoku Solver 
 version: 0.1
-Created By Nisheet Patel
-Github: https://github.com/NisheetNakrani
+Created By Kartikeya Bhati
+Github: https://github.com/feihCaka
 
-- HElP -
+- Help -
 # Run this command to install all dependencies/packages
 
 pip3 install -r requirements.txt
